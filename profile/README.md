@@ -27,12 +27,15 @@
   <img src="https://img.shields.io/badge/Location-🌍%20Indonesia-orange?style=flat-square" alt="Location">
 </p>
 
-<div class="logo-container" style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-top: 2rem;">
-  <a href="https://github.com/ridwankhafidi" class="logo-linked" style="text-decoration: none; color: inherit; text-align: center;">
-    <img src="https://github.com/ridwankhafidi.png" alt="GitHub Avatar" class="logo" style="width: 120px; height: 120px; border-radius: 50%; border: 2px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;" />
-    <p class="logo-placeholder" style="margin-top: 10px; font-size: 1.2rem; font-weight: bold;">@ridwankhafidi</p>
+<p align="center">
+  <a href="https://github.com/ridwankhafidi">
+    <img src="https://github.com/ridwankhafidi.png" alt="GitHub Avatar" width="120" style="border-radius: 50%; border: 2px solid #ccc;" />
   </a>
-</div>
+</p>
+
+<p align="center" style="font-size: 1.2rem; font-weight: bold;">
+  <strong>@ridwankhafidi</strong>
+</p>
 
 ## About `ridwankhafidi`
 
